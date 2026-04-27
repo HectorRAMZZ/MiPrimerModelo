@@ -3,10 +3,11 @@ import random
 import time
 
 # Configuración inicial
-st.set_page_config(page_title="Ecuaciones de Primer Grado", page_icon="🧮")
+st.set_page_config(page_title="parctica ecuaciones", page_icon="🧮")
 
-st.title("🧮 Generador de Ecuaciones")
+st.title("🧮 repaso de la clase")
 st.write("Resuelve la ecuación de primer grado:")
+st.info("capturad e pantalla y ajuata")
 
 # Función para generar ecuación
 def generar_ecuacion():
